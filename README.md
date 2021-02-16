@@ -8,4 +8,4 @@ In this Lab, codes are written in arduino language and are simulated in proteus.
 
 
 ## About Projects 
-There are also two mini projects ( [safebox](https://github.com/amirhoseinRj/Microprocessor-Lab/tree/main/S6-SafeBox) and [electric jacob](https://github.com/amirhoseinRj/Microprocessor-Lab/tree/main/S6-Yaghoob%20Barghi)) and a [final project](https://github.com/amirhoseinRj/Microprocessor-Lab/tree/main/Final%20Project) (which is about controling the tempreture of a reaction tank).
+There are also two mini projects ( [safebox](https://github.com/amirhoseinRj/Microprocessor-Lab/tree/main/S6-SafeBox) and [electric jacob](https://github.com/amirhoseinRj/Microprocessor-Lab/tree/main/S6-Yaghoob%20Barghi)) and a [final project](https://github.com/amirhoseinRj/Microprocessor-Lab/tree/main/Final%20Project) (which is about controlling the tempreture of a reaction tank).
